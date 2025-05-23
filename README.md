@@ -1,8 +1,7 @@
 # Bloggos 📃💻
 ### About the project
 - This is my Capstone project. 🌄
-- It is a blog web application called Bloggos.
-- In Bloggos you can craft ✒ and share your idea 💡 that can inspire millions.
+- It is a blog web application called Bloggos where you can craft ✒ and share your idea 💡 that can inspire millions.
 - It has dynamic header and amazing button animations.
 - It is made using:
   - **Frontend** - HTML, CSS, Bootstrap, Javascript
