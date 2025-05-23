@@ -14,7 +14,7 @@
 - Show a blog
 - and Show all blog created by user
 
-### Node Modules & NPM Packages used in the project
+### Node Modules & NPM Packages used
 - **express** – used to create server application which is the back-end of the project
 - **ejs** – used to create templates and then rendering them into HTML
 - **multer** - is a node.js middleware which used to handle uploaded files via forms (here images) in the backend
