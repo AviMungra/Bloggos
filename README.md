@@ -1,4 +1,4 @@
-# Bloggos 💻📃
+# Bloggos 📃💻
 ### About the project
 - This is my Capstone project. 🌄
 - It is a blog web application where you can craft ✒ and share your idea 💡 that can inspire millions.
